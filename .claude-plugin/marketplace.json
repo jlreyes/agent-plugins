@@ -1,0 +1,27 @@
+{
+  "name": "jlreyes",
+  "owner": {
+    "name": "James Reyes"
+  },
+  "plugins": [
+    {
+      "name": "ts-tips",
+      "source": {
+        "source": "github",
+        "repo": "jlreyes/ts-tips",
+        "sha": "a4b250cf7cfb48c216fe63bdbc5a08e347102921"
+      },
+      "description": "Current TypeScript, Node.js, and oxc guidance and repository organization."
+    },
+    {
+      "name": "swift-agent-kit",
+      "source": {
+        "source": "github",
+        "repo": "jlreyes/swift-agent-kit",
+        "sha": "c3e780f12157f6063b5d5d028998d4d45022135b"
+      },
+      "description": "Swift standards, Apple documentation, and Xcode and Instruments workflows."
+    }
+  ],
+  "description": "Personal plugins for TypeScript and Swift development."
+}
