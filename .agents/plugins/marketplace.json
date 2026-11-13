@@ -9,7 +9,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jlreyes/ts-tips.git",
-        "sha": "a4b250cf7cfb48c216fe63bdbc5a08e347102921"
+        "sha": "7f317e1a104647302194007074a256279b1d5ee8"
       },
       "description": "Current TypeScript, Node.js, and oxc guidance and repository organization.",
       "policy": {
@@ -23,7 +23,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jlreyes/swift-agent-kit.git",
-        "sha": "c3e780f12157f6063b5d5d028998d4d45022135b"
+        "sha": "bc654464020b846e926f4d81190a07802da95660"
       },
       "description": "Swift standards, Apple documentation, and Xcode and Instruments workflows.",
       "policy": {
